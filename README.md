@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmank11&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmank11&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmank11&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmank11&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmank11&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
